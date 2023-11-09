@@ -1,0 +1,28 @@
+重置默认样式
+
+.wrap{
+    position:relative;
+    width: 100%;
+}
+
+.pharse {
+    /* background: aquamarine; */
+    display: flex;
+}
+
+.pharse-content {
+    background: aqua;
+}
+
+.pharse-time {
+    background-color: antiquewhite;
+    /* border: 5px solid; */
+    /* border-radius: 5px; */
+    border-left: 0.8rem solid #cac6c690;
+    border-bottom: 20px;
+}
+
+
+img{
+    width: 50%;
+}
